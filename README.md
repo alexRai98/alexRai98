@@ -1,44 +1,72 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Rai Delgado</h1>
+<h1 align="center">Hola 👋, soy Alexander Delgado</h1>
+<p align="center"><strong>Ingeniero de software · Desarrollo web y móvil · Charlas y contenido sobre programación</strong></p>
+<p align="center">Piura, Perú 🇵🇪</p>
 
-<img src="https://acortar.link/IEozkt">
-
-## Sobre mi
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexrai98&label=Profile%20views&color=0e75b6&style=flat" alt="alexrai98" /> </p>
-
-
-- 🔭 I’m currently working on [App Caja Sullana](https://github.com/alexRai98/cajaSullana)
-
-- 🌱 I’m currently learning **JetPack Compose, Astro, Kotlin**
-
-- 👯 I’m looking to collaborate on [Poke Lite](https://github.com/orlando-rojas/pokemon-lite-api)
-
-- 🤝 I’m looking for help with [Bio Byte](https://github.com/alexRai98/BioByte)
-
-- 👨‍💻 All of my projects are available at [https://alex-rai.netlify.app/](https://alex-rai.netlify.app/)
-
-- 💬 Ask me about **React, JetPack Compose, TS, Dependency injection with Dagger**
-
-- 📫 How to reach me **rai.delgado98@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1hKPF-cS9oMMVkmy3X1v9gOEa9D3YTDDdFjN21k0Girc/edit?usp=sharing](https://docs.google.com/document/d/1hKPF-cS9oMMVkmy3X1v9gOEa9D3YTDDdFjN21k0Girc/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I'm funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@alexrai98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@alexrai98" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alex-rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alex-rai/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/alexanderrai.delgadocovenas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/alexanderrai.delgadocovenas/" height="30" width="40" /></a>
-<a href="https://instagram.com/@alex_rai_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alex_rai_d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@alexanderraidelgadocovenas7530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alexanderraidelgadocovenas7530" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@raikcuerda19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@raikcuerda19" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://alex-rai.netlify.app/">Portafolio</a> ·
+  <a href="https://www.linkedin.com/in/alex-rai/">LinkedIn</a> ·
+  <a href="mailto:rai.delgado98@gmail.com">Contacto</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Sobre mí
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexrai98&show_icons=true&locale=en&layout=compact" alt="alexrai98" /></p>
+Soy ingeniero de software y creador de contenido sobre programación. Desarrollo aplicaciones web y móviles, y tengo experiencia construyendo servicios backend.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexrai98&show_icons=true&locale=en" alt="alexrai98" /></p>
+Me gusta compartir lo que aprendo, participar en la comunidad y convertir necesidades de producto en soluciones útiles.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexrai98&" alt="alexrai98" /></p>
+- 💻 Mi experiencia incluye **Go, React, TypeScript, Kotlin y Android con Jetpack Compose**.
+- ☁️ He trabajado con **GCP, Apigee, Docker y Kubernetes**.
+- 🎤 He dado charlas y comparto contenido sobre programación.
+- 📫 Puedes escribirme a **rai.delgado98@gmail.com**.
+
+## Experiencia
+
+| Rol | Empresa | Periodo |
+| --- | --- | --- |
+| Software Engineer II | Encora | 2024 – actualidad, según mi portafolio |
+| Software Engineer | EyG Grupo | 2023 – 2024 |
+| Software Developer | Kushki Perú | 2021 – 2023 |
+| Front-End Developer | Apurata | 2020 – 2021 |
+
+En Encora he participado en migraciones a Go, servicios de trazabilidad e integraciones con GCP y Apigee. Mi trayectoria también incluye microservicios y desarrollo frontend para productos financieros.
+
+[Más sobre mi experiencia y proyectos →](https://alex-rai.netlify.app/)
+
+## Proyectos destacados
+
+- **[App Caja Sullana](https://github.com/alexRai98/cajaSullana)** — Desarrollo Android con Kotlin, arquitectura e integración con Niubiz y FacePhi.
+- **[Home Banking Caja Cusco](https://zonasegura.bancapersonas.cajacusco.pe/)** — Frontend con React, TypeScript y Redux; integración de APIs y automatización del despliegue de desarrollo.
+- **Sistema de gestión de ventas e inventario** — Aplicación de escritorio con Java y MySQL para pequeños negocios.
+
+[Explora mis repositorios →](https://github.com/alexRai98?tab=repositories)
+
+## Charlas y comunidad
+
+Compartir conocimiento también forma parte de mi recorrido como desarrollador. He participado como ponente en charlas de programación, compartiendo experiencias y aprendizajes con la comunidad.
+
+<!-- Añadir aquí las charlas confirmadas: título, evento o comunidad, fecha y enlaces a grabación, diapositivas o repositorio. -->
+
+Para conversar sobre mis charlas o contactar conmigo, escríbeme por [LinkedIn](https://www.linkedin.com/in/alex-rai/) o [correo](mailto:rai.delgado98@gmail.com).
+
+## Tecnologías y herramientas
+
+| Área | Tecnologías |
+| --- | --- |
+| Backend | Go · REST APIs |
+| Web | React · TypeScript · JavaScript · HTML · CSS · Redux |
+| Móvil | Kotlin · Android · Jetpack Compose · Dagger |
+| Cloud e infraestructura | GCP · Apigee · Docker · Kubernetes · Bash |
+| Bases de datos | PostgreSQL · MySQL · MongoDB |
+
+## Conecta conmigo
+
+- [LinkedIn](https://www.linkedin.com/in/alex-rai/)
+- [DEV Community](https://dev.to/alexrai98)
+- [YouTube](https://www.youtube.com/@alexanderraidelgadocovenas7530)
+- [Instagram](https://www.instagram.com/alex_rai_d/)
+- [Facebook](https://www.facebook.com/alexanderrai.delgadocovenas/)
+- [HackerRank](https://www.hackerrank.com/raikcuerda19)
+
+---
+
+<p align="center">Construir, aprender y compartir 🚀</p>
